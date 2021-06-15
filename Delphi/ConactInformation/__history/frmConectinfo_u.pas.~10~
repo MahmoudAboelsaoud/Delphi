@@ -1,0 +1,78 @@
+unit frmConectinfo_u;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ExtCtrls, Vcl.StdCtrls, Vcl.Buttons,
+  Vcl.Samples.Spin, Vcl.Imaging.jpeg, Vcl.ComCtrls;
+
+type
+  Tfrmconectinfo = class(TForm)
+    pnlHeader: TPanel;
+    pnlPersonalInformation: TPanel;
+    pnlAddressInformation: TPanel;
+    pnContactInformation: TPanel;
+    pnlActions: TPanel;
+    btnDisplay: TButton;
+    bmbReset: TBitBtn;
+    bmbClose: TBitBtn;
+    lblFirstName: TLabel;
+    lblSurName: TLabel;
+    lblGander: TLabel;
+    lblAge: TLabel;
+    lblStreet: TLabel;
+    lblCity: TLabel;
+    lblCountry: TLabel;
+    lblPostalCode: TLabel;
+    lblTelephone: TLabel;
+    lblEmail: TLabel;
+    edtFirstName: TEdit;
+    edtSurName: TEdit;
+    edtStreet: TEdit;
+    edeCity: TEdit;
+    edtCountry: TEdit;
+    edtPostalCode: TEdit;
+    edtTelephone: TEdit;
+    edtEmail: TEdit;
+    cbxGander: TComboBox;
+    sedAge: TSpinEdit;
+    imgPhoto: TImage;
+    chxSendNewsLetter: TCheckBox;
+    redOutput: TRichEdit;
+    procedure btnDisplayClick(Sender: TObject);
+    procedure btnDisplayMouseUp(Sender: TObject; Button: TMouseButton;
+      Shift: TShiftState; X, Y: Integer);
+    procedure btnDisplayMouseMove(Sender: TObject; Shift: TShiftState; X,
+      Y: Integer);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmconectinfo: Tfrmconectinfo;
+
+implementation
+
+{$R *.dfm}
+
+procedure Tfrmconectinfo.btnDisplayClick(Sender: TObject);
+begin
+showmessage('You press Display button');
+end;
+
+procedure Tfrmconectinfo.btnDisplayMouseMove(Sender: TObject;
+  Shift: TShiftState; X, Y: Integer);
+begin
+//btnDisplay.Caption := 'Click To DisPlay';
+end;
+
+procedure Tfrmconectinfo.btnDisplayMouseUp(Sender: TObject;
+  Button: TMouseButton; Shift: TShiftState; X, Y: Integer);
+begin
+btnDisplay.Caption := 'Click To DisPlay';
+end;
+
+end.

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/05 04:02:38.000.231,=C:\Users\M.Aboelsaoud\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/05 16:24:39.000.179,=C:\Users\M.Aboelsaoud\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/05 16:37:48.000.270,C:\Users\M.Aboelsaoud\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\Unit1.dfm</Transaction>
+    <Transaction>2021/06/05 16:37:48.000.270,C:\Users\M.Aboelsaoud\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\Unit1.pas</Transaction>
+    <Transaction>2021/06/05 18:46:02.000.318,C:\Users\M.Aboelsaoud\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\M.Aboelsaoud\Documents\Embarcadero\Studio\Projects\FirstDamo_p.dproj</Transaction>
+    <Transaction>2021/06/05 18:47:37.000.583,C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\Unit1.pas=C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\frmFirstDamo_u.pas</Transaction>
+    <Transaction>2021/06/05 18:47:37.000.583,C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\Unit1.dfm=C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\frmFirstDamo_u.dfm</Transaction>
+    <Transaction>2021/06/05 18:48:38.000.952,C:\Users\M.Aboelsaoud\Documents\Embarcadero\Studio\Projects\FirstDamo_p.dproj=C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstDamo\FirstDamo_p.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

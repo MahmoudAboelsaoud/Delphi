@@ -1,0 +1,31 @@
+unit frmAnotherForm2_u;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;//, frmAnotherForm_u;
+
+type
+  TfrmAnotherForm2 = class(TForm)
+    btnprevious: TButton;
+    procedure btnpreviousClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmAnotherForm2: TfrmAnotherForm2;
+
+implementation
+
+{$R *.dfm}
+
+procedure TfrmAnotherForm2.btnpreviousClick(Sender: TObject);
+begin
+//frmAnotherFrom.show;
+end;
+
+end.

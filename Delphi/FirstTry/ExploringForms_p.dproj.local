@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/06 01:39:18.000.555,=C:\Users\M.Aboelsaoud\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/06 01:41:01.000.425,C:\Users\M.Aboelsaoud\Documents\Embarcadero\Studio\Projects\frmFirstTry_p.dproj=C:\Users\M.Aboelsaoud\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/06/06 01:41:31.000.255,C:\Users\M.Aboelsaoud\Documents\Embarcadero\Studio\Projects\first.dfm=C:\Users\M.Aboelsaoud\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/06/06 01:41:31.000.255,C:\Users\M.Aboelsaoud\Documents\Embarcadero\Studio\Projects\first.pas=C:\Users\M.Aboelsaoud\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/06 01:41:53.000.364,C:\Users\M.Aboelsaoud\Documents\Embarcadero\Studio\Projects\firstTry_u.pas=C:\Users\M.Aboelsaoud\Documents\Embarcadero\Studio\Projects\first.pas</Transaction>
+    <Transaction>2021/06/06 01:41:53.000.364,C:\Users\M.Aboelsaoud\Documents\Embarcadero\Studio\Projects\firstTry_u.dfm=C:\Users\M.Aboelsaoud\Documents\Embarcadero\Studio\Projects\first.dfm</Transaction>
+    <Transaction>2021/06/06 01:43:18.000.189,C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\firstTry_u.dfm=C:\Users\M.Aboelsaoud\Documents\Embarcadero\Studio\Projects\firstTry_u.dfm</Transaction>
+    <Transaction>2021/06/06 01:43:18.000.189,C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\firstTry_u.pas=C:\Users\M.Aboelsaoud\Documents\Embarcadero\Studio\Projects\firstTry_u.pas</Transaction>
+    <Transaction>2021/06/06 01:43:20.000.902,C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\frmFirstTry_p.dproj=C:\Users\M.Aboelsaoud\Documents\Embarcadero\Studio\Projects\frmFirstTry_p.dproj</Transaction>
+    <Transaction>2021/06/06 02:00:07.000.818,C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\ExploringForms_p.dproj=C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\frmFirstTry_p.dproj</Transaction>
+    <Transaction>2021/06/06 02:00:27.000.075,C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\frmMain_u.dfm=C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\firstTry_u.dfm</Transaction>
+    <Transaction>2021/06/06 02:00:27.000.075,C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\frmMain_u.pas=C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\firstTry_u.pas</Transaction>
+    <Transaction>2021/06/06 02:36:22.000.612,=C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\Unit1.pas</Transaction>
+    <Transaction>2021/06/06 02:37:09.000.990,C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\Unit1.dfm=C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\frmAnotherForm.dfm</Transaction>
+    <Transaction>2021/06/06 02:37:09.000.990,C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\Unit1.pas=C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\frmAnotherForm.pas</Transaction>
+    <Transaction>2021/06/06 02:39:47.000.514,C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\frmAnotherForm.dfm=C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\frmAnotherForm_u.dfm</Transaction>
+    <Transaction>2021/06/06 02:39:47.000.514,C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\frmAnotherForm.pas=C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\frmAnotherForm_u.pas</Transaction>
+    <Transaction>2021/06/06 02:58:45.000.908,=C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\Unit1.pas</Transaction>
+    <Transaction>2021/06/06 02:59:48.000.898,C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\Unit1.pas=C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\frmAnotherForm2_u.pas</Transaction>
+    <Transaction>2021/06/06 02:59:48.000.898,C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\Unit1.dfm=C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\frmAnotherForm2_u.dfm</Transaction>
+    <Transaction>2021/06/06 17:05:16.583,=C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\Unit1.pas</Transaction>
+    <Transaction>2021/06/06 17:05:45.654,C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\frmAnotherForm3_u.dfm=C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\Unit1.dfm</Transaction>
+    <Transaction>2021/06/06 17:05:45.654,C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\frmAnotherForm3_u.pas=C:\Users\M.Aboelsaoud\Desktop\Work\Delphi\FirstTry\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{9CCD0A07-E913-44C0-88D4-3EC3E6987353}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="ExploringForms_p.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\FirstDamo\FirstDamo_p.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="ExploringForms_p">
+        <MSBuild Projects="ExploringForms_p.dproj"/>
+    </Target>
+    <Target Name="ExploringForms_p:Clean">
+        <MSBuild Projects="ExploringForms_p.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ExploringForms_p:Make">
+        <MSBuild Projects="ExploringForms_p.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="FirstDamo_p">
+        <MSBuild Projects="..\FirstDamo\FirstDamo_p.dproj"/>
+    </Target>
+    <Target Name="FirstDamo_p:Clean">
+        <MSBuild Projects="..\FirstDamo\FirstDamo_p.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="FirstDamo_p:Make">
+        <MSBuild Projects="..\FirstDamo\FirstDamo_p.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="ExploringForms_p;FirstDamo_p"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="ExploringForms_p:Clean;FirstDamo_p:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="ExploringForms_p:Make;FirstDamo_p:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
